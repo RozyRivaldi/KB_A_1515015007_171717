@@ -1,0 +1,16 @@
+Nama	 : Rozy Rivaldi
+Nim 	 : 1515015007
+Kelas	 : A'2015
+
+Postest 2 Praktikum Kecerdasan Buatan
+Macam2 keyword di visual prolog,yaitu:
+1. facts	: Untuk memulai section facts.
+2. Goal		: Mendefinisikan titikmasuk utama ke program visual prolog.
+3. determ	: Menentukan bahwa hanya boleh ada satu fakta dari suatu predikat sepanjang program berjalan.
+4. nondeterm	: Menentukan bahwa kemungkinan ada sejumlah fakta dari suatu predikat sepanjang program berjalan(default)
+5. clause	: Memberikan fakta-fakta yang ada untuk memberikan gambaran kepada VPE dalam melakukan pengujian untuk menjadi solusi dari pertanyaan yang di berikan.
+6. global	: Menentukan bahwa section fact adalah global dalam global.
+7. nocopy	: Normalnya panggilan fakta akan mengikat variabel ke sebuah string atau ke sebuah object jamak.
+8. domain	: Menyatakan jenis variabel atau argumen.
+9. predicate	: Memberikan gambaran akan kata2 yang ada pada program.
+10.Single	: Menentukan hanya satu fakta dari predikat yang akan selalu ada.
